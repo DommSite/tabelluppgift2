@@ -1,7 +1,13 @@
+caption {
+	caption-side: bottom;
+	padding: 5px;
+	font-size: 2em;
+}
+
 table {
 	border: 1px solid black;
 	border-collapse: collapse;
-	width: 40%;
+	width: 20%;
 	margin: auto;
 }
 
@@ -9,4 +15,19 @@ th,
 td {
 	border: 1px solid black;
 	padding: 40px;
+}
+.blå {
+	background-color: blue !important;
+}
+.rött {
+	background-color: red !important;
+}
+.gul {
+	background-color: yellow !important;
+}
+.svart {
+	background-color: black !important;
+}
+.grön {
+	background-color: greenyellow !important;
 }
